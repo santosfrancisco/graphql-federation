@@ -1,0 +1,13 @@
+{
+  "name": "graphql-federation-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node gateway.js"
+  },
+  "dependencies": {
+    "@apollo/gateway": "^0.13.2",
+    "apollo-server": "^2.11.0"
+  }
+}
